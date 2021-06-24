@@ -1,7 +1,7 @@
 # visualizers
 Visualize segmentations in bulk in an image grid. 
 
-This simple practice could be useful when comparing segmentations of multiple state-of-the-art methods.
+This simple practice could be useful, for example, when comparing segmentations of multiple state-of-the-art methods.
 
 A demo is illustrated below, where images, segmentations and edges of an abdominal CT volume are visualized.
 
